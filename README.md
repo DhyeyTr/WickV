@@ -4,7 +4,7 @@ This repository contains our C90 to RISC-V compiler completed as part of the Ins
 
 The code passed 170/201 tests, scoring 85% overall, which placed us among the top 5 out of ~50 pairs in the cohort.
 
-Overall, we were pleased with the compiler, and learnt a lot from this course, though there are several code smells that we introduced due to the intensity of the Spring term, which we hope to clean up post-submission.
+Overall, we were pleased with the compiler, and learnt a lot from this course, though there are a small number of code smells that we introduced due to the intensity of the Spring term, which we hope to clean up post-submission.
 
 P.S. the name, WickV, is a nod to the following:
 - our professor, Dr John Wickerson
